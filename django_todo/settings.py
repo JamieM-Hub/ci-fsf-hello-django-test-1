@@ -28,7 +28,7 @@ SECRET_KEY = 'kr5uss8v(q^snutc)&^fpmialh26qu84nn*3@ojix^_(l1*$8v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jamiem-hub-django-todo-app.herokuapp.com']
 
 
 # Application definition
